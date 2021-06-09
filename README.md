@@ -1,0 +1,2 @@
+# GarbageClassification
+基于ResNet50的图像分类小程序
